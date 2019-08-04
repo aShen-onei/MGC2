@@ -1,52 +1,47 @@
 <template>
     <f7-page>
-        <f7-navbar>
-            <f7-nav-left>
-                <f7-link icon-if-ios="f7:menu" icon-if-md="material:menu" panel-open="left"></f7-link>
-            </f7-nav-left>
-            <f7-nav-title>My App</f7-nav-title>
-            <f7-nav-right>
-                <f7-link icon-if-ios="f7:menu" icon-if-md="material:menu" panel-open="right"></f7-link>
-            </f7-nav-right>
+        <f7-navbar back-link="返回">
+                <f7-nav-title> 我是毕业生 </f7-nav-title>
         </f7-navbar>
-        <f7-toolbar bottom>
-            <f7-link>Left Link</f7-link>
-            <f7-link>Right Link</f7-link>
-        </f7-toolbar>
-        <f7-block strong>
-            <p>Here is your blank Framework7 app. Let's see what we have here.</p>
-        </f7-block>
-        <f7-block-title>Navigation</f7-block-title>
-        <f7-list>
-            <f7-list-item link="/about/" title="About"></f7-list-item>
-            <f7-list-item link="/form/" title="Form"></f7-list-item>
-        </f7-list>
-        <f7-block-title>Modals</f7-block-title>
-        <f7-block strong>
-            <f7-row>
-                <f7-col width="50">
-                    <f7-button fill raised popup-open="#popup">Popup</f7-button>
+        <f7-searchbar
+                disable-link-text="Cancel"
+                placeholder="Search in items"
+                :clear-button="true"
+        ></f7-searchbar>
+
+        <f7-swiper pagination navigation scrollbar>
+            <f7-swiper-slide><img src="../../pic/广告1.jpg"></f7-swiper-slide>
+            <f7-swiper-slide><img src="../../pic/广告2.jpg"></f7-swiper-slide>
+
+        </f7-swiper>
+
+        <f7-block>
+            <f7-row tag="p">
+
+                <f7-col tag="span">
+                    <f7-button raised class="h1"></f7-button>
+                    <a href="#" class="button color-black">入职相关</a>
                 </f7-col>
-                <f7-col width="50">
-                    <f7-button fill raised login-screen-open="#login-screen">Login Screen</f7-button>
+                <f7-col tag="span">
+                    <f7-button raised class="h2"></f7-button>
+                    <a href="#" class="button color-black">认识美的</a>
+                </f7-col>
+                <f7-col tag="span">
+                    <f7-button raised class="h3"></f7-button>
+                    <a href="#" class="button color-black">便利生活</a>
+                </f7-col>
+            </f7-row>
+            <f7-row tag="p">
+                <f7-col tag="span">
+                    <f7-button raised class="h4" ></f7-button>
+                    <a href="#" class="button color-black">相关培训</a>
+                </f7-col>
+                <f7-col tag="span">
+                    <f7-button raised class="h5"></f7-button>
+                    <a href="#" class="button color-black">讨论交流</a>
                 </f7-col>
             </f7-row>
         </f7-block>
-        <f7-block-title>Panels</f7-block-title>
-        <f7-block strong>
-            <f7-row>
-                <f7-col width="50">
-                    <f7-button fill raised panel-open="left">Left Panel</f7-button>
-                </f7-col>
-                <f7-col width="50">
-                    <f7-button fill raised panel-open="right">Right Panel</f7-button>
-                </f7-col>
-            </f7-row>
-        </f7-block>
-        <f7-list>
-            <f7-list-item link="/dynamic-route/blog/45/post/125/?foo=bar#about" title="Dynamic Route"></f7-list-item>
-            <f7-list-item link="/load-something-that-doesnt-exist/" title="Default Route (404)"></f7-list-item>
-        </f7-list>
     </f7-page>
 </template>
 <script>

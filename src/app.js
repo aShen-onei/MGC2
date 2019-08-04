@@ -8,7 +8,7 @@ import Framework7Vue from 'framework7-vue/framework7-vue.esm.bundle.js';
 import 'framework7/css/framework7.bundle.css';
 // 引入图标样式
 // import IconsStyles from './css/icons.css';
-// import AppStyles from './css/app.css';
+import AppStyles from './css/app.css';
 // 引入app组件
 import App from './app.vue';
 // 初始化F7

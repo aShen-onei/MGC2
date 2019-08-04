@@ -1,0 +1,27 @@
+.h1{
+    height:100px;
+    width: 100px;
+    background:url("../../pic/ruzhi.jpg") no-repeat ;
+}
+.h2{
+    height:100px;
+    width: 100px;
+    background:url("../../pic/midea.jpg") no-repeat ;
+}
+.h3{
+    height:100px;
+    width: 100px;
+    background:url("../../pic/bianli.jpg") no-repeat ;
+}
+.h4{
+    height:100px;
+    width: 100px;
+    background:url("../../pic/peixun.png") no-repeat ;
+    margin-left: 40px;
+}
+.h5{
+    height:100px;
+    width: 100px;
+    background:url("../../pic/jiaoliu.png") no-repeat ;
+    margin-left: 30px;
+}
