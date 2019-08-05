@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="49e4e364-7f2f-4e88-9733-333c78eac226" name="Default Changelist" comment="">
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pic/father.png" beforeDir="false" afterPath="$PROJECT_DIR$/pic/father.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pic/midi.png" beforeDir="false" afterPath="$PROJECT_DIR$/pic/midi.png" afterDir="false" />
@@ -19,6 +20,10 @@
       <change afterPath="$PROJECT_DIR$/src/pages2/interaction.vue" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/pages2/interestinggroup.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> Stashed changes
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/entry_related.vue" beforeDir="false" />
 >>>>>>> Stashed changes
       <change beforePath="$PROJECT_DIR$/src/pages/home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/home.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes.js" afterDir="false" />
@@ -58,6 +63,13 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="L:\Code\MGC2\src\pages" />
+      <recent name="L:\Code\MGC2\src\Pages2" />
+      <recent name="L:\Code\MGC2\src\a" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -84,6 +96,7 @@
       <workItem from="1564463399084" duration="34000" />
       <workItem from="1564500479044" duration="6405000" />
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       <workItem from="1564883150340" duration="24863000" />
       <workItem from="1564966953410" duration="11831000" />
 =======
@@ -92,6 +105,18 @@
       <workItem from="1564883415372" duration="33656000" />
       <workItem from="1564965857920" duration="6856000" />
       <workItem from="1564972925656" duration="6991000" />
+>>>>>>> Stashed changes
+=======
+      <workItem from="1564670206473" duration="745000" />
+      <workItem from="1564670983138" duration="3407000" />
+      <workItem from="1564754723195" duration="5153000" />
+      <workItem from="1564820164878" duration="4268000" />
+      <workItem from="1564845226729" duration="1170000" />
+      <workItem from="1564883076375" duration="26563000" />
+      <workItem from="1564926272442" duration="2220000" />
+      <workItem from="1564929239431" duration="5642000" />
+      <workItem from="1564938923423" duration="1667000" />
+      <workItem from="1564966803621" duration="14042000" />
 >>>>>>> Stashed changes
     </task>
     <servers />
