@@ -3,7 +3,7 @@
         <f7-navbar back-link="返回">
             <f7-nav-title> 体检 </f7-nav-title>
         </f7-navbar>
-        
+
             <f7-row>一、体检地点</f7-row>
 
            <f7-row>1.三甲医院体检中心或者美的集团医务所进行体检（非美的医务所的体检报告，必须有您的照片，并且加盖骑缝章）</f7-row>
