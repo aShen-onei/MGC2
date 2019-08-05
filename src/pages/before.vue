@@ -19,7 +19,7 @@
                 <div class="timeline-item-date">16<small>July</small></div>
                 <div class="timeline-item-divider"></div>
                 <div class="timeline-item-content">
-                    <div class="timeline-item-content">倒计时3天</div>
+                    <div class="timeline-item-content" style="color: firebrick">倒计时3天</div>
                     <div class="timeline-item-inner">在美的医务所或三甲医院进行体检</div>
                 </div>
             </div>
@@ -27,7 +27,7 @@
                 <div class="timeline-item-date">17 <small>July</small></div>
                 <div class="timeline-item-divider"></div>
                 <div class="timeline-item-content">
-                    <div class="timeline-item-content">倒计时2天</div>
+                    <div class="timeline-item-content" style="color: firebrick">倒计时2天</div>
                     <div class="timeline-item-inner">发送一寸照给HR以制作工卡</div>
                 </div>
             </div>
@@ -35,7 +35,7 @@
                 <div class="timeline-item-date">18 <small>July</small></div>
                 <div class="timeline-item-divider"></div>
                 <div class="timeline-item-content">
-                    <div class="timeline-item-content">倒计时1天</div>
+                    <div class="timeline-item-content" style="color: firebrick">倒计时1天</div>
                     <div class="timeline-item-inner">在入职前一天告知HR以确认入职时间</div>
                 </div>
             </div>
