@@ -3,8 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="49e4e364-7f2f-4e88-9733-333c78eac226" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pic/father.png" beforeDir="false" afterPath="$PROJECT_DIR$/pic/father.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pic/midi.png" beforeDir="false" afterPath="$PROJECT_DIR$/pic/midi.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pic/mini.png" beforeDir="false" afterPath="$PROJECT_DIR$/pic/mini.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pic/mother.png" beforeDir="false" afterPath="$PROJECT_DIR$/pic/mother.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/entry_related.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/entry_related.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/home.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,8 +24,8 @@
         <option value="package.json" />
         <option value="HTML File" />
         <option value="JavaScript File" />
-        <option value="Vue Single File Component" />
         <option value="CSS File" />
+        <option value="Vue Single File Component" />
       </list>
     </option>
   </component>
@@ -28,6 +34,7 @@
   </component>
   <component name="ProjectId" id="1OgpxH0UDcvZCmo1Hq625FtjngC" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -61,7 +68,8 @@
       <workItem from="1564409341243" duration="607000" />
       <workItem from="1564463399084" duration="34000" />
       <workItem from="1564500479044" duration="6405000" />
-      <workItem from="1564883150340" duration="15020000" />
+      <workItem from="1564883150340" duration="24863000" />
+      <workItem from="1564966953410" duration="11831000" />
     </task>
     <servers />
   </component>
@@ -73,7 +81,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

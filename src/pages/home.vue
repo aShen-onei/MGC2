@@ -1,7 +1,7 @@
 <template>
     <f7-page>
         <f7-navbar back-link="返回">
-                <f7-nav-title> 我是毕业生 </f7-nav-title>
+                <f7-nav-title center > 我是毕业生 </f7-nav-title>
         </f7-navbar>
         <f7-searchbar
                 disable-link-text="Cancel"
@@ -19,8 +19,8 @@
             <f7-row tag="p">
 
                 <f7-col tag="span">
-                    <f7-button raised class="h1"></f7-button>
-                    <a href="#" class="button color-black">入职相关</a>
+                    <f7-button href="/entry_related/" raised class="h1"></f7-button>
+                    <a  class="button color-black">入职相关</a>
                 </f7-col>
                 <f7-col tag="span">
                     <f7-button raised class="h2"></f7-button>
