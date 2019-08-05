@@ -23,12 +23,12 @@
                     <a  class="button color-black">入职相关</a>
                 </f7-col>
                 <f7-col tag="span">
-                    <f7-button raised class="h2"></f7-button>
+                    <f7-button raised class="h2" href="/about/"></f7-button>
                     <a href="/about/" class="button color-black">认识美的</a>
                 </f7-col>
                 <f7-col tag="span">
-                    <f7-button raised class="h3"></f7-button>
-                    <a href="#" class="button color-black">便利生活</a>
+                    <f7-button raised class="h3" href="/Homepage02/"></f7-button>
+                    <a href="/Homepage02/" class="button color-black">便利生活</a>
                 </f7-col>
             </f7-row>
             <f7-row tag="p">

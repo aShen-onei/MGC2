@@ -1,4 +1,3 @@
-
 import HomePage from './pages/home.vue';
 import entry from './pages/entry_related.vue';
 import before from './pages/before.vue';
@@ -11,14 +10,18 @@ import Swimming from './pages/swimming.vue';
 import Full from './pages/full.vue';
 import Interaction from './pages2/interaction.vue';
 import Interestinggroup from './pages2/interestinggroup.vue';
+import Homepage02 from './pages/Homepage02.vue';
+import GuangshaGardenApartment from './pages/GuangshaGardenApartment.vue';
+import MideaCoastalGarden from './pages/MideaCoastalGarden.vue';
+import MideaGlobalInnovationCenter from './pages/MideaGlobalInnovationCenter.vue';
+import MideaHeadquarters from './pages/MideaHeadquarters.vue';
+import MideaNewVillage from './pages/MideaNewVillage.vue';
+import XinduhuiApartment from './pages/XinduhuiApartment.vue';
+import GUANGSHAPAGE from './pages/GuangshaGarden'
 // 将网页加入路由
 export default [
     {
         path:'/',
-        component:HomePage
-    },
-    {
-        path:'/home/',
         component:HomePage
     },
     {
@@ -64,5 +67,37 @@ export default [
     {
         path:'/interaction/',
         component: Interaction
+    },
+    {
+        path:'/Homepage02/',
+        component:Homepage02
+    },
+    {
+        path:'/GuangshaGardenApartment/',
+        component:GuangshaGardenApartment
+    },
+    {
+        path:'/MideaCoastalGarden/',
+        component:MideaCoastalGarden
+    },
+    {
+        path:'/MideaGlobalInnovationCenter/',
+        component:MideaGlobalInnovationCenter
+    },
+    {
+        path:'/MideaHeadquarters/',
+        component:MideaHeadquarters
+    },
+    {
+        path:'/MideaNewVillage/',
+        component:MideaNewVillage
+    },
+    {
+        path:'/XinduhuiApartment/',
+        component:XinduhuiApartment
+    },
+    {
+        path:'/guangsha/',
+        component:GUANGSHAPAGE
     }
 ];
