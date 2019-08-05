@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49e4e364-7f2f-4e88-9733-333c78eac226" name="Default Changelist" comment="">
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pic/father.png" beforeDir="false" afterPath="$PROJECT_DIR$/pic/father.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pic/midi.png" beforeDir="false" afterPath="$PROJECT_DIR$/pic/midi.png" afterDir="false" />
@@ -9,6 +10,16 @@
       <change beforePath="$PROJECT_DIR$/pic/mother.png" beforeDir="false" afterPath="$PROJECT_DIR$/pic/mother.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/app.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/entry_related.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/entry_related.vue" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/src/pages/about.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/full.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/headquarters.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/inovation.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/swimming.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages2/interaction.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages2/interestinggroup.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> Stashed changes
       <change beforePath="$PROJECT_DIR$/src/pages/home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/home.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes.js" afterDir="false" />
     </list>
@@ -38,8 +49,12 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+<<<<<<< Updated upstream
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mgc33" />
+>>>>>>> Stashed changes
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
@@ -68,8 +83,16 @@
       <workItem from="1564409341243" duration="607000" />
       <workItem from="1564463399084" duration="34000" />
       <workItem from="1564500479044" duration="6405000" />
+<<<<<<< Updated upstream
       <workItem from="1564883150340" duration="24863000" />
       <workItem from="1564966953410" duration="11831000" />
+=======
+      <workItem from="1564812357850" duration="70000" />
+      <workItem from="1564812440595" duration="2578000" />
+      <workItem from="1564883415372" duration="33656000" />
+      <workItem from="1564965857920" duration="6856000" />
+      <workItem from="1564972925656" duration="6991000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>

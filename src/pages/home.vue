@@ -24,7 +24,7 @@
                 </f7-col>
                 <f7-col tag="span">
                     <f7-button raised class="h2"></f7-button>
-                    <a href="#" class="button color-black">认识美的</a>
+                    <a href="/about/" class="button color-black">认识美的</a>
                 </f7-col>
                 <f7-col tag="span">
                     <f7-button raised class="h3"></f7-button>
@@ -38,7 +38,7 @@
                 </f7-col>
                 <f7-col tag="span">
                     <f7-button raised class="h5"></f7-button>
-                    <a href="#" class="button color-black">讨论交流</a>
+                    <a href="/interaction/" class="button color-black">讨论交流</a>
                 </f7-col>
             </f7-row>
         </f7-block>

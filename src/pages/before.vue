@@ -11,7 +11,7 @@
                 <div class="timeline-item-date">15 <small>July</small></div>
                 <div class="timeline-item-divider"></div>
                 <div class="timeline-item-content">
-                    <div class="timeline-item-content">倒计时4天</div>
+                    <div class="timeline-item-content" style="color: firebrick">倒计时4天</div>
                     <div class="timeline-item-inner">填写预入职链接，完善个人信息</div>
                 </div>
             </div>
